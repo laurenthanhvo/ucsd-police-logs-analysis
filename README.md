@@ -1,7 +1,7 @@
 # Mapping Campus Safety: An Analysis of UCSD Police Department Logs
 
 DSC 190 – Fall 2025  
-Team Members: Casey So, Keilani Li, Lauren Vo, Lillian Tran, Banff Jiang
+*Team Members: Casey So, Keilani Li, Lauren Vo, Lillian Tran, Banff Jiang*
 
 ## Project Overview
 
